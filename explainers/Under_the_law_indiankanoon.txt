@@ -1,0 +1,1 @@
+The court judgments retrieved from IndiaKanoon.org are public domain documents made available by the Indian judiciary. This project accesses them via standard search and page scraping in small, polite volumes strictly for non-commercial academic research, in accordance with the principle of fair use and the public nature of the legal documents.
